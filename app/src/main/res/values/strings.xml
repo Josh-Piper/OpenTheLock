@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentBasedLocking</string>
+    <string name="ask_name">Enter your Name!</string>
+    <string name="openTheLockText">Open the Lock</string>
+</resources>
